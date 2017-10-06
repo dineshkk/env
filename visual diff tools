@@ -1,3 +1,15 @@
 http://amjith.blogspot.com/2007/07/visual-diff-tools-in-linux.html
 
 http://amjith.blogspot.com/2008/08/quick-and-dirty-vimdiff-tutorial.html
+
+sdiff file-1 file-2
+
+This is a much more elegant tool compared to diff, if you are looking for a quick command-line utility that shows the difference between two text files. While using it on big files, its better to pipe the output to less command.
+
+sdiff file1 file2 | less
+
+vimdiff file-1 file-2
+
+This can open "n" number of files in a vertically split vim environment. This has color highlighting to specify the areas 
+that differ in the file. Editing is possible. This is a complete vim-environment, so all the vim keys are usable. 
+Here is a quick and dirty tutorial on how to use vimdiff.
