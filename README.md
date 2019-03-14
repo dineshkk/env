@@ -79,3 +79,9 @@ export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"
 If you are using Java 9, use the following:
 
 export JAVA_HOME="`/usr/libexec/java_home -v 9`"
+
+https://www.macrumors.com/how-to/use-mac-volume-keys-adjust-monitor-audio/
+https://github.com/mattingalls/Soundflower
+brew cask install soundflower
+
+
