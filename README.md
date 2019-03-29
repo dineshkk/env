@@ -85,3 +85,8 @@ https://github.com/mattingalls/Soundflower
 brew cask install soundflower
 
 
+Microsoft Help CHM File Reader Mac
+brew cask install ichm
+
+https://apple.stackexchange.com/questions/6407/how-do-i-read-chm-files-in-os-x
+http://macappstore.org/ichm/
