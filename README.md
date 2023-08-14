@@ -1,3 +1,8 @@
+
+https://github.com/Clipy/Clipy
+Cheatsheet 
+Unarchiver
+
 # 
 
 Shell Prompt magic
